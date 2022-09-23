@@ -1,16 +1,13 @@
-### Hi there 👋
+## 🚀 Hi There! I'm Saqib! 👋
 
-<!--
-**saqyb/saqyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a tech enthusiast I have diverse hands on experience in web technologies i.e. React, Express, Node and Mongo DB. Besides this, I am full stack developer and looking for a position in React/ MERN Stack where I can enhance my skill set by providing excellent services to the best of my knowledge.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+React, Node, Express, MongoDB, Javascript, Tailwind CSS, Bootstrap, CSS, HTML.
+
+ ##I'm currently working on some full Stack Projects To learn more about MERN Stack
+
+📫 Contact me on Linkedin
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqyb/)
+
