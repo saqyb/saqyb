@@ -1,11 +1,10 @@
+![Header](https://raw.githubusercontent.com/saqyb/saqyb/main/header.png)
 ## 🚀 Hi There! I'm Saqib! 👋
 
 As a tech enthusiast I have diverse hands on experience in web technologies i.e. React, Express, Node and Mongo DB. Besides this, I am full stack developer and looking for a position in React/ MERN Stack where I can enhance my skill set by providing excellent services to the best of my knowledge.
 
-## 🛠 Skills
+## 🛠 Skills 
 <h3 align="left">Languages and Tools:</h3>
-    
-    <h3 align="left">Languages and Tools:</h3>
     <!-- <p align="left"> -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img
@@ -15,7 +14,6 @@ As a tech enthusiast I have diverse hands on experience in web technologies i.e.
         height="40"
       />
     </a>
-    <p>React JS</p>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -24,7 +22,6 @@ As a tech enthusiast I have diverse hands on experience in web technologies i.e.
         height="40"
       />
     </a>
-    <p>Redux</p>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -33,8 +30,6 @@ As a tech enthusiast I have diverse hands on experience in web technologies i.e.
         height="40"
       />
     </a>
-    <p>Tailwind CSS</p>
-
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -43,7 +38,6 @@ As a tech enthusiast I have diverse hands on experience in web technologies i.e.
         height="40"
       />
     </a>
-    <p>Express</p>
     <a
       href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
       target="_blank"
@@ -56,7 +50,6 @@ As a tech enthusiast I have diverse hands on experience in web technologies i.e.
         height="40"
       />
     </a>
-    <p>Javascript</p>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -65,7 +58,6 @@ As a tech enthusiast I have diverse hands on experience in web technologies i.e.
         height="40"
       />
     </a>
-    <p>MongoDB</p>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -74,9 +66,6 @@ As a tech enthusiast I have diverse hands on experience in web technologies i.e.
         height="40"
       />
     </a>
-    <p>Node JS</p>
-
-##I'm currently working on some full Stack Projects To learn more about MERN Stack
-
+  
 📫 Contact me on Linkedin
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqyb/)
